@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+##INTEGRANTES
+MAX CHRISTOPHER DIAZ ROMANI
 
 This project is a starting point for a Flutter application.
 
