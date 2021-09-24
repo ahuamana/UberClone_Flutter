@@ -7,8 +7,14 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
           title: Text("Drive",)
       ),
-      body: Center(
-        child: Text("Home page"),
+      body: Column(
+        children: [
+          Row(
+            children: [
+              Image.asset('assets/img/logo_app.png')
+            ],
+          )
+        ],
       ),
     );
   }
